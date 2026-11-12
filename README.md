@@ -1,2 +1,9 @@
-# lead-salon-fadi-asmar-img5
-Website built by V-Agent Web Development team
+# Salon Fadi Asmar
+
+Built by the V-Agent Web Development team.
+
+Next.js 14 (App Router) + Tailwind CSS.
+
+```bash
+npm install
+npm run dev
